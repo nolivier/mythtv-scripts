@@ -1,0 +1,25 @@
+Divers scripts nécessaires à l'utilisation de MythTV sur nolivier-htpc
+
+
+cinepassion.pl 
+        le grabber cinepassion pour les covers de film en francais
+cron.sh
+        script a lancer par cron 
+grab_kazer.sh
+        pour telecharger l'EPG depuis kazer.org
+mythconverg_backup.pl
+        deprecated - en standard avec MythTV 0.24
+mythconverg_restore.pl
+        deprecated - en standard avec MythTV 0.24
+mythpoweroff.sh
+        procedure d'arret de nolivier-htpc
+mythpreshutdown.sh
+        vérifier s'il est possible de s'arreter
+mythstart.sh
+        scrpit de lancement (cf /home/nolivier/.config/autostart/mythtv.desktop)
+mythsuspend.sh
+        procedure de mise en veille de nolivier-htpc
+setwakeup.sh
+        positionne l'heure pour le reveil
+splash.sh
+        affichage d'un splash screen au lancement
